@@ -1,170 +1,27 @@
-# Python Beginner Course (Offline)
-    
-    1-dars:
-    
-        -- Python haqida tushuncha. Pythonga kirish.
-    
-        -- Kod yozish muhitlari. Visual Studio Coe(Aqua Codes).
-    
-        -- Pythonda Ilk dasturim.
-    
-    2-dars:
-    
-        -- Pythonda o'zgaruvchilar.
-    
-        -- Pythonda asosiy ma'lumot turlari.
-    
-        -- Input() va qo'shimcha metodlar.
-    
-    3-dars:
-    
-        -- Stringlar bilan mukammal ishlash.
-    
-        -- Pythonda operatorlar bilan ishlash.
-    
-    4-dars:    
-    
-        -- Collectionlar. List.
-    
-    5-dars:
-    
-        -- Collectionlar. Tuple.
-    
-    6-dars:
-    
-        -- Dictonry bilan ishlash.
-    
-    7-dars:    
-    
-        -- Shart operatorlari haqida.
-    
-        -- Shart operatorlari AND.
-    
-    8-dars:    
-    
-        -- Takrorlanish operatorlari. While haqida.
-    
-    9-dars:    
-    
-        -- Takrorlanish operatorlari. For haqida.
+# SubUx Python kurslari.
 
-# Python Intermediate Course
- 
-    10-dars:
- 
-        -- Funksiyalar bilan ishlash.
- 
-    11-dars:    
- 
-        -- Modullarni yuklash va modullar haqida.
- 
-        -- From va Import tushunchalari.
- 
-    12-dars:    
- 
-        -- For va While bilan mukammal ishlash(While True). 
- 
-    13-dars:    
- 
-        -- OS moduli haqida. 
- 
-    14-dars:    
- 
-        -- Fayllar bilan ishlash. 
- 
-        -- Fayllar bilan ishlash. (2- qism)
- 
-    15-dars:    
- 
-        -- Datetime moduli haqida.
- 
-    16-dars:    
- 
-        -- Try Except haqida asosiy tushunchalar.
- 
-    17-dars:
- 
-        -- Virtual muhitlar.
- 
-        -- Requirements.txt haqida tushuncha.
- 
-    18-dars:    
- 
-        -- Logginglar haqida tushuncha.
- 
-    19-dars:    
- 
-        -- GitHub haqida.
- 
-        -- Githubga dasturlarni yuklash.
- 
-        -- Sifatli portfolio yaratish.
+## Kurs haqida:
 
-# Python Advanced Course
-    
-    20-dars:
-    
-        -- OOP haqida tushuncha. 
-    
-        -- Class yaratish.
-    
-    21-dars:    
-    
-        -- Classga tegishli metodlar.
-    
-        -- __str__, __init__ va self.
-    
-    22-dars:    
-    
-        -- Inheritance classlar.
-    
-        -- super metodi haqida.
-    
-    23-dars:
-    
-        -- Encapsulation haqida.
-    
-    24-dars:
-    
-        -- *args va **kwargs haqida.
-    
-    25-dars:
-    
-        -- Threading haqida tushuncha.
-    
-    26-dars:
-    
-        -- Events.
-    
-    27-dars:
-    
-        -- Asinxron va sinxron dasturlash haqida nazariya.
-    
-    28-dars:
-    
-        -- Dunder metodlar.
-    
-    29-dars:
-    
-        -- Itertors.
-    
-    30-dars:
-    
-        -- Generators.
-    
-    31-dars:
-    
-        -- MyPy haqida.
-    
-    32-dars:
-    
-        -- Takrorlash (Beginner)
-    
-    33-dars:
-    
-        -- Takrorlash (Intermediate)
-    
-    34-dars:
-    
-        -- Takrorlash (Advanced)
+* Kurs ro'yxati bilan yuqoridagi branch lar oqali tanishishingiz mumkin.
 
+* Kursdagi ma'lumotlar faqatgina <a href="https://t.me/subux/">SUBUX</a> orqali sotuvga chiqariladi.
+
+* Har bir video darsdan so'ng alohida uyga vazifa tayyorlangan bo'lib ularni faqatgina <a href="https://t.me/subux/">SUBUX</a> tomonidan tavsiya etilgan kuratorlar tekshirishi mumkin. Kursimizni faqat o'zimizdan sotib oling(clounlardan sotib olingan kurs uchun SUSYS jamoasi javobgar emas!).
+
+* Bizning video kurslarimizni tarqatish taqiqlanadi. Va shu sababli barcha darslar telegramda yopiq guruhda olib boriladi.
+
+* Kursdan so'ng barcha vazifa va portfolioni to'liq bajargan o'quvchilarimiz sertifikat taqdim etiladi. Va ularni ro'yxatga olish maqsadida (Shaxsni tasdiqlovchi hujjatlar talab e'tiladi).
+
+## Kursda qatnashish uchun nimalar talab etiladi:
+
+* Kompyuter savodxonligi.
+
+* 12 yoshdan katta bo'lishi.
+
+* Sertifikat va ro'yxatdan o'tish uchun shaxsni tasdiqlovchi hujjat.
+
+* Doimiy intrnet.
+
+* Oylik to'lov(yoki kelishuv asosida bir martalik to'lov).
+
+### Ro'yxatdan o'tish uchun <a href="https://t.me/subux/">SUBUX</a> bilan bog'laning!
