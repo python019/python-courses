@@ -1,95 +1,170 @@
-# Python Beginner Course
-
-    --1 Python haqida tushuncha. Pythonga kirish.
-
-    --2 Kod yozish muhitlari. Visual Studio Coe(Aqua Codes).
+# Python Beginner Course (Offline)
     
-    --3 Pythonda Ilk dasturim.
+    1-dars:
     
-    --4 Pythonda o'zgaruvchilar.
+        -- Python haqida tushuncha. Pythonga kirish.
     
-    --5 Pythonda asosiy ma'lumot turlari.
+        -- Kod yozish muhitlari. Visual Studio Coe(Aqua Codes).
     
-    --6 Input() va qo'shimcha metodlar.
+        -- Pythonda Ilk dasturim.
     
-    --7 Stringlar bilan mukammal ishlash.
+    2-dars:
     
-    --8 Pythonda operatorlar bilan ishlash.
+        -- Pythonda o'zgaruvchilar.
     
-    --9 Collectionlar. List.
+        -- Pythonda asosiy ma'lumot turlari.
     
-    --10 Collectionlar. Tuple.
+        -- Input() va qo'shimcha metodlar.
     
-    --.1 Dictonry bilan ishlash.
+    3-dars:
     
-    --.2 Shart operatorlari haqida.
+        -- Stringlar bilan mukammal ishlash.
     
-    --.3 Shart operatorlari AND.
+        -- Pythonda operatorlar bilan ishlash.
     
-    --.4 Takrorlanish operatorlari. While haqida.
+    4-dars:    
     
-    --.5 Takrorlanish operatorlari. For haqida.
+        -- Collectionlar. List.
+    
+    5-dars:
+    
+        -- Collectionlar. Tuple.
+    
+    6-dars:
+    
+        -- Dictonry bilan ishlash.
+    
+    7-dars:    
+    
+        -- Shart operatorlari haqida.
+    
+        -- Shart operatorlari AND.
+    
+    8-dars:    
+    
+        -- Takrorlanish operatorlari. While haqida.
+    
+    9-dars:    
+    
+        -- Takrorlanish operatorlari. For haqida.
 
 # Python Intermediate Course
-    
-    --1 Funksiyalar bilan ishlash.
-    
-    --2 Modullarni yuklash va modullar haqida.
-    
-    --3 From va Import tushunchalari.
-    
-    --4 For va While bilan mukammal ishlash. 
-    
-    --5 OS moduli haqida. 
-    
-    --6 Fayllar bilan ishlash. 
-    
-    --7 Fayllar bilan ishlash. (2- qism)
-    
-    --8 Datetime moduli haqida.
-    
-    --9 Try Except haqida asosiy tushunchalar.
-    
-    --10 Virtual muhitlar.
-    
-    --.1 Requirements.txt haqida tushuncha.
-    
-    --.2 Logginglar haqida tushuncha.
-    
-    --.3 GitHub haqida.
-    
-    --.4 Githubga dasturlarni yuklash.
-    
-    --.5 Sifatli portfolio yaratish.
+ 
+    10-dars:
+ 
+        -- Funksiyalar bilan ishlash.
+ 
+    11-dars:    
+ 
+        -- Modullarni yuklash va modullar haqida.
+ 
+        -- From va Import tushunchalari.
+ 
+    12-dars:    
+ 
+        -- For va While bilan mukammal ishlash(While True). 
+ 
+    13-dars:    
+ 
+        -- OS moduli haqida. 
+ 
+    14-dars:    
+ 
+        -- Fayllar bilan ishlash. 
+ 
+        -- Fayllar bilan ishlash. (2- qism)
+ 
+    15-dars:    
+ 
+        -- Datetime moduli haqida.
+ 
+    16-dars:    
+ 
+        -- Try Except haqida asosiy tushunchalar.
+ 
+    17-dars:
+ 
+        -- Virtual muhitlar.
+ 
+        -- Requirements.txt haqida tushuncha.
+ 
+    18-dars:    
+ 
+        -- Logginglar haqida tushuncha.
+ 
+    19-dars:    
+ 
+        -- GitHub haqida.
+ 
+        -- Githubga dasturlarni yuklash.
+ 
+        -- Sifatli portfolio yaratish.
 
 # Python Advanced Course
     
-    --1 OOP haqida tushuncha. 
+    20-dars:
     
-    --2 Class yaratish.
+        -- OOP haqida tushuncha. 
     
-    --3 Classga tegishli metodlar.
+        -- Class yaratish.
     
-    --4 __str__, __init__ va self.
+    21-dars:    
     
-    --5 Inheritance classlar.
+        -- Classga tegishli metodlar.
     
-    --6 super metodi haqida.
+        -- __str__, __init__ va self.
     
-    --7 Encapsulation haqida.
+    22-dars:    
     
-    --8 *args va **kwargs haqida.
+        -- Inheritance classlar.
     
-    --9 Threading haqida tushuncha.
+        -- super metodi haqida.
     
-    --10 Events.
+    23-dars:
     
-    --.1 Asinxron va sinxron dasturlash haqida nazariya.
+        -- Encapsulation haqida.
     
-    --.2 Dunder metodlar.
+    24-dars:
     
-    --.3 Itertors.
+        -- *args va **kwargs haqida.
     
-    --.4 Generators.
+    25-dars:
     
-    --.5 MyPy haqida.
+        -- Threading haqida tushuncha.
+    
+    26-dars:
+    
+        -- Events.
+    
+    27-dars:
+    
+        -- Asinxron va sinxron dasturlash haqida nazariya.
+    
+    28-dars:
+    
+        -- Dunder metodlar.
+    
+    29-dars:
+    
+        -- Itertors.
+    
+    30-dars:
+    
+        -- Generators.
+    
+    31-dars:
+    
+        -- MyPy haqida.
+    
+    32-dars:
+    
+        -- Takrorlash (Beginner)
+    
+    33-dars:
+    
+        -- Takrorlash (Intermediate)
+    
+    34-dars:
+    
+        -- Takrorlash (Advanced)
+
