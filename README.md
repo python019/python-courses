@@ -1,27 +1,15 @@
-# SubUx Python kurslari.
+# Python Kursidagi Portfoliolar Ro'yxati
 
-## Kurs haqida:
+    -- QRCode yaratuvchi dastur.
 
-* Kurs ro'yxati bilan yuqoridagi branch lar oqali tanishishingiz mumkin.
+    -- Mobil qurilmalar parol tizimi.
 
-* Kursdagi ma'lumotlar faqatgina <a href="https://t.me/subux/">SUBUX</a> orqali sotuvga chiqariladi.
+    -- Google qidiruv dasturi.
 
-* Har bir video darsdan so'ng alohida uyga vazifa tayyorlangan bo'lib ularni faqatgina <a href="https://t.me/subux/">SUBUX</a> tomonidan tavsiya etilgan kuratorlar tekshirishi mumkin. Kursimizni faqat o'zimizdan sotib oling(clounlardan sotib olingan kurs uchun SUSYS jamoasi javobgar emas!).
+    -- Ekran yozib oluvchi dastur. 
 
-* Bizning video kurslarimizni tarqatish taqiqlanadi. Va shu sababli barcha darslar telegramda yopiq guruhda olib boriladi.
+    -- Intrnet tezligini o'lchovchi dastur.
 
-* Kursdan so'ng barcha vazifa va portfolioni to'liq bajargan o'quvchilarimiz sertifikat taqdim etiladi. Va ularni ro'yxatga olish maqsadida (Shaxsni tasdiqlovchi hujjatlar talab e'tiladi).
+    -- Ilon o'yini (Game program).
 
-## Kursda qatnashish uchun nimalar talab etiladi:
-
-* Kompyuter savodxonligi.
-
-* 12 yoshdan katta bo'lishi.
-
-* Sertifikat va ro'yxatdan o'tish uchun shaxsni tasdiqlovchi hujjat.
-
-* Doimiy intrnet.
-
-* Oylik to'lov(yoki kelishuv asosida bir martalik to'lov).
-
-### Ro'yxatdan o'tish uchun <a href="https://t.me/subux/">SUBUX</a> bilan bog'laning!
+    -- Domen ma'lumotlarini qidiruvchi dastur.
