@@ -1,8 +1,8 @@
-# SubUx Python kurslari.
+# SubUx Python kursi.
 
 ## Kurs haqida:
 
-* Kursdagi darsliklar faqatgina <a href="https://t.me/subux/">SUBUX</a> orqali sotuvga chiqariladi.
+* Kursdagi video darsliklar faqatgina <a href="https://t.me/subux/">SUBUX</a> orqali sotuvga chiqariladi.
 
 * Har bir video darsdan so'ng alohida uyga vazifa tayyorlangan bo'lib ularni faqatgina <a href="https://t.me/subux/">SUBUX</a> tomonidan tavsiya etilgan kuratorlar tekshirishi mumkin. Kursimizni faqat o'zimizdan sotib oling(clounlardan sotib olingan kurs uchun SUSYS jamoasi javobgar emas!!!).
 
@@ -14,7 +14,7 @@
 
 <img src="admin/branch.png" style="width: 350px;">
 
-## Kursda qatnashish uchun nimalar talab etiladi:
+## Kursga qatnashish uchun nimalar talab etiladi:
 
 * Kompyuter savodxonligi.
 
