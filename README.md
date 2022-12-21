@@ -6,9 +6,9 @@
     
     --3 Pythonda Ilk dasturim.
     
-    --4 Pythonda o'zgaruvchilar.
+    --4 Pythonda asosiy ma'lumot turlari.
     
-    --5 Pythonda asosiy ma'lumot turlari.
+    --5 Pythonda o'zgaruvchilar.
     
     --6 Input() va qo'shimcha metodlar.
     
