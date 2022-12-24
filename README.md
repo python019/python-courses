@@ -32,7 +32,7 @@
     
     6-dars:
     
-        -- Dictonry bilan ishlash.
+        -- Dictonary bilan ishlash.
     
     7-dars:    
     
