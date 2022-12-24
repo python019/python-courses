@@ -20,7 +20,7 @@
     
     --10 Collectionlar. Tuple.
     
-    --.1 Dictonry bilan ishlash.
+    --.1 Dictonary bilan ishlash.
     
     --.2 Shart operatorlari haqida.
     
