@@ -40,7 +40,7 @@
     
     --4 For va While bilan mukammal ishlash. 
     
-    --5 OS moduli haqida. 
+    --5 OS va time moduli haqida. 
     
     --6 Fayllar bilan ishlash. 
     
