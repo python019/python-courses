@@ -1,34 +1,34 @@
 # Python Beginner Course
 
-    --1 Python haqida tushuncha. Pythonga kirish.
+    --1 Python haqida tushuncha. Pythonga kirish. (05:30)
 
-    --2 Kod yozish muhitlari. Visual Studio Coe(Aqua Codes).
+    --2 Kod yozish muhitlari. Visual Studio Coe(Aqua Codes). (05:16)
     
-    --3 Pythonda Ilk dasturim.
+    --3 Pythonda Ilk dasturim. (03:46)
     
-    --4 Pythonda asosiy ma'lumot turlari.
+    --4 Pythonda asosiy ma'lumot turlari. (08:36)
+     
+    --5 Pythonda o'zgaruvchilar. (06:16)
     
-    --5 Pythonda o'zgaruvchilar.
+    --6 Input() va qo'shimcha metodlar. (04:13)
     
-    --6 Input() va qo'shimcha metodlar.
+    --7 Stringlar bilan mukammal ishlash. (08:26)
     
-    --7 Stringlar bilan mukammal ishlash.
+    --8 Pythonda operatorlar bilan ishlash. (04:46)
     
-    --8 Pythonda operatorlar bilan ishlash.
+    --9 Collectionlar. List. (06:01)
     
-    --9 Collectionlar. List.
+    --10 Collectionlar. Tuple. (04:42)
     
-    --10 Collectionlar. Tuple.
+    --.1 Dictonary bilan ishlash. (05:15)
     
-    --.1 Dictonary bilan ishlash.
+    --.2 Shart operatorlari haqida. (08:03)
     
-    --.2 Shart operatorlari haqida.
+    --.3 Shart operatorlari AND. (09:14)
     
-    --.3 Shart operatorlari AND.
+    --.4 Takrorlanish operatorlari. While haqida. (09:41)
     
-    --.4 Takrorlanish operatorlari. While haqida.
-    
-    --.5 Takrorlanish operatorlari. For haqida.
+    --.5 Takrorlanish operatorlari. For haqida. (04:44)
 
 # Python Intermediate Course
     
