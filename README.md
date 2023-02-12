@@ -70,11 +70,11 @@
     
     --3 Classga tegishli metodlar.
     
-    --4 OOP Polymorphism.
+    --4 Inheritance classlar.
     
-    --5 Inheritance classlar.
+    --5 super metodi haqida.
     
-    --6 super metodi haqida.
+    --6 OOP Polymorphism.
     
     --7 Encapsulation haqida.
     
