@@ -66,11 +66,11 @@
     
     --1 OOP haqida tushuncha. 
     
-    --2 Class yaratish.
+    --2 Class yaratish. __str__, __init__ va self.
     
     --3 Classga tegishli metodlar.
     
-    --4 __str__, __init__ va self.
+    --4 OOP Polymorphism.
     
     --5 Inheritance classlar.
     
