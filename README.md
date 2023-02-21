@@ -60,7 +60,7 @@
     
     --.4 Githubga dasturlarni yuklash.
     
-    --.5 Sifatli portfolio yaratish.
+    --.5 GitHubga o'zgartirish kiritish.
 
 # Python Advanced Course
     
