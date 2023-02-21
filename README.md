@@ -32,35 +32,35 @@
 
 # Python Intermediate Course
     
-    --1 Funksiyalar bilan ishlash.
+    --1 Funksiyalar bilan ishlash. (09:11)
     
-    --2 Modullarni yuklash va modullar haqida.
+    --2 Modullarni yuklash va modullar haqida. (03:38)
     
-    --3 From va Import tushunchalari.
+    --3 From va Import tushunchalari. (04:36)
     
-    --4 For va While bilan mukammal ishlash. 
+    --4 For va While bilan mukammal ishlash. (07:33) 
     
-    --5 OS va time moduli haqida. 
+    --5 OS va time moduli haqida. (05:53)
     
-    --6 Fayllar bilan ishlash. 
+    --6 Fayllar bilan ishlash. (08:02)
     
-    --7 Fayllar bilan ishlash. (2- qism)
+    --7 Fayllar bilan ishlash. (2- qism) (04:09)
     
-    --8 Datetime moduli haqida.
+    --8 Datetime moduli haqida. (06:00)
     
-    --9 Try Except haqida asosiy tushunchalar.
+    --9 Try Except haqida asosiy tushunchalar. (06:47)
     
-    --10 Virtual muhitlar.
+    --10 Virtual muhitlar. (10:32)
     
-    --.1 Requirements.txt haqida tushuncha.
+    --.1 Requirements.txt haqida tushuncha. (04:56)
     
-    --.2 Logginglar haqida tushuncha.
+    --.2 Logginglar haqida tushuncha. (02:41)
     
-    --.3 GitHub haqida.
+    --.3 GitHub haqida. (08:00)
     
-    --.4 Githubga dasturlarni yuklash.
+    --.4 Githubga dasturlarni yuklash. (09:29)
     
-    --.5 GitHubga o'zgartirish kiritish.
+    --.5 GitHubga o'zgartirish kiritish. (02:24)
 
 # Python Advanced Course
     
